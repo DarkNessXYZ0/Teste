@@ -1,0 +1,11 @@
+COMANDOS CMD:
+- cls = limpar tela
+- cd = abrir diretorio
+- dir = mostrar conteudo da pasta
+- browser-sync start --server --directory --files "*" = host dos arquivos
+- xxxx --version = versao do programa instalado
+
+
+COMANDOS HTML:
+- Se o arquivo for .html e escrever html no inicio, se apertar ctrl+espaço já faz o esqueleto básico
+- <br> = pular linha
